@@ -13,7 +13,7 @@
 2. SQLite Database
 
 ### 실행화면
-<img src="https://user-images.githubusercontent.com/59874084/73039438-698d2e80-3e99-11ea-996a-89c2cca3cb76.png" width="100px" height="100px"></img>
+<img src="https://user-images.githubusercontent.com/59874084/73039438-698d2e80-3e99-11ea-996a-89c2cca3cb76.png" width="40%" height="40%"></img>
 
 #### 1. 홈 화면
  
