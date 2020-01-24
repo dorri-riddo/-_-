@@ -13,13 +13,13 @@
 2. SQLite Database
 
 ### 실행화면
-<img src="https://user-images.githubusercontent.com/59874084/73039438-698d2e80-3e99-11ea-996a-89c2cca3cb76.png"></img>
+<img src="https://user-images.githubusercontent.com/59874084/73039438-698d2e80-3e99-11ea-996a-89c2cca3cb76.png" width="100px" height="100px"></img>
 
 #### 1. 홈 화면
  
  
 <img src="https://user-images.githubusercontent.com/59874084/73039440-6b56f200-3e99-11ea-9f2d-ec8af713db45.png"></img>
-
+<img src="https://user-images.githubusercontent.com/59874084/73039442-6c881f00-3e99-11ea-96d7-b82d952bf21a.png"></img>
 #### 2. 약 설정
 
 
