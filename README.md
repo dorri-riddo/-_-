@@ -18,19 +18,19 @@
 #### 1. 홈 화면
  
  
-<img src="https://user-images.githubusercontent.com/59874084/73039440-6b56f200-3e99-11ea-9f2d-ec8af713db45.png" width="40%" height="40%"</img>
-<img src="https://user-images.githubusercontent.com/59874084/73039442-6c881f00-3e99-11ea-96d7-b82d952bf21a.png" width="40%" height="40%"</img>
+<img src="https://user-images.githubusercontent.com/59874084/73039440-6b56f200-3e99-11ea-9f2d-ec8af713db45.png" width="40%" height="40%>"</img>
+<img src="https://user-images.githubusercontent.com/59874084/73039442-6c881f00-3e99-11ea-96d7-b82d952bf21a.png" width="40%" height="40%"></img>
 #### 2. 약 설정
 
 
-<img src="https://user-images.githubusercontent.com/59874084/73039446-6e51e280-3e99-11ea-9256-ed9512cae60c.png" width="40%" height="40%"</img>
+<img src="https://user-images.githubusercontent.com/59874084/73039446-6e51e280-3e99-11ea-9256-ed9512cae60c.png" width="40%" height="40%"></img>
 
 #### 3. 날짜별 목록 및 메모 관리
 
 
-<img src="https://user-images.githubusercontent.com/59874084/73039447-714cd300-3e99-11ea-892a-56e3dcbf9aff.png" width="40%" height="40%"</img>
-<img src="https://user-images.githubusercontent.com/59874084/73039449-714cd300-3e99-11ea-91e7-544fb81092f5.png" width="40%" height="40%"</img>
-<img src="https://user-images.githubusercontent.com/59874084/73039450-714cd300-3e99-11ea-9441-2df279ab251d.png" width="40%" height="40%"</img>
-<img src="https://user-images.githubusercontent.com/59874084/73039451-71e56980-3e99-11ea-864d-327cea084492.png" width="40%" height="40%"</img>
+<img src="https://user-images.githubusercontent.com/59874084/73039447-714cd300-3e99-11ea-892a-56e3dcbf9aff.png" width="40%" height="40%"></img>
+<img src="https://user-images.githubusercontent.com/59874084/73039449-714cd300-3e99-11ea-91e7-544fb81092f5.png" width="40%" height="40%"></img>
+<img src="https://user-images.githubusercontent.com/59874084/73039450-714cd300-3e99-11ea-9441-2df279ab251d.png" width="40%" height="40%"></img>
+<img src="https://user-images.githubusercontent.com/59874084/73039451-71e56980-3e99-11ea-864d-327cea084492.png" width="40%" height="40%"></img>
 
 #### 4. PDF로 파일 전환 
