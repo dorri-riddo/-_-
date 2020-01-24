@@ -19,7 +19,7 @@
  
  
 <img src="https://user-images.githubusercontent.com/59874084/73039440-6b56f200-3e99-11ea-9f2d-ec8af713db45.png"></img>
-<img src="https://user-images.githubusercontent.com/59874084/73039442-6c881f00-3e99-11ea-96d7-b82d952bf21a.png"></img>
+
 #### 2. 약 설정
 
 
